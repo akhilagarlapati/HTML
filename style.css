@@ -1,0 +1,21 @@
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+nav ul{
+    float: right;
+    margin-right: 500px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 50px;
+    margin: 0px 20px ;
+}
+label{
+     line-height: 80px;
+    color: antiquewhite;
+    font-style: oblique;
+    font-size: larger;
+
+}
