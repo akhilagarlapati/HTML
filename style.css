@@ -1,7 +1,14 @@
+.main{
+  width: 100%;
+   background: linear-gradient(to top,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic\ one.jpg);
+   background-position: cover;
+   background-size: cover;
+   height: 100vh;
+}
 nav{
-    height: 80px;
+    height: 90px;
     width: 100%;
-    background-color: black;
+    /* background-color: black;  */
 }
 nav ul{
     float: right;
@@ -18,4 +25,13 @@ label{
     font-style: oblique;
     font-size: larger;
 
+}
+li a{
+    color: black;
+    text-decoration: none;
+    
+}
+img{
+    width: 100%;
+    height: 80vh;
 }
