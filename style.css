@@ -1,6 +1,6 @@
 .main{
   width: 100%;
-   background:  url(pic\ one.jpg);
+   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic\ one.jpg);
    background-position: cover;
    background-size: cover;
    height: 100vh;
